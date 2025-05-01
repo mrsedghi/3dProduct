@@ -4,6 +4,10 @@
 
 A beautiful, interactive 3D product customizer built with React, Three.js, and Material-UI. Allows users to visualize products with different dimensions and materials in real-time.
 
+## Demo
+
+Demo url: https://3d-product-iota.vercel.app/
+
 ## ✨ Features
 
 - 🎨 **Material Selection** - Choose from multiple material presets
