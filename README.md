@@ -64,6 +64,22 @@ Contributions are welcome! Please follow these steps:
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
+## Support
+If you find this project useful, consider supporting further development!
+
+### 🌍 Iranian Support
+<a href="http://www.coffeete.ir/m.r.sedghii" target="_blank">
+   <img src="http://www.coffeete.ir/images/buttons/lemonchiffon.png" alt="Buy me a coffee" style="width:150px;" />
+</a>
+
+### 💳 Crypto Support
+**TRX (Tron) Wallet:**  
+```bash
+TXkEs7BHRtV6ffof79Ty92AJW1jYrFRUSY
+```
+
+<i>Your support is greatly appreciated! ❤️</i>
+
 ## 📜 License
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
